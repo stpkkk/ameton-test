@@ -34,16 +34,16 @@ header .wrapper {
   border-radius: 40px;
   margin: 0 auto;
   max-width: 1200px;
-  background: url("../src/svg/first_plane.svg") 0px 195px no-repeat,"
-    url('/src/svg/apple.svg') 1029px 151.8px no-repeat,
-    url('../src/svg/flower.svg') 1038.33px 146.13px no-repeat,
-    url('../src/svg/camera.svg') 1066.96px 135.29px no-repeat,
-    url('../src/svg/second_plane.svg') 43px 71px no-repeat,
-    url('../src/svg/third_plane.svg') 235px 37px no-repeat,
-    url('../src/img/wrist.png') 1057px 230px no-repeat,
-    url('../src/img/hand.png') 980px 175px no-repeat,
-    url('../src/svg/iphone.svg') 979.68px 110.95px no-repeat,
-    url('../src/svg/finger.svg') 1067px 170px no-repeat;
+  background: url("../source/svg/first_plane.svg") 0px 195px no-repeat,"
+    url('/source/svg/apple.svg') 1029px 151.8px no-repeat,
+    url('../source/svg/flower.svg') 1038.33px 146.13px no-repeat,
+    url('../source/svg/camera.svg') 1066.96px 135.29px no-repeat,
+    url('../source/svg/second_plane.svg') 43px 71px no-repeat,
+    url('../source/svg/third_plane.svg') 235px 37px no-repeat,
+    url('../source/img/wrist.png') 1057px 230px no-repeat,
+    url('../source/img/hand.png') 980px 175px no-repeat,
+    url('../source/svg/iphone.svg') 979.68px 110.95px no-repeat,
+    url('../source/svg/finger.svg') 1067px 170px no-repeat;
 
   background-color: #93bbea;
   box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.05);
@@ -75,30 +75,30 @@ header {
 .nav-chat a {
   padding: 15px 26px 15px 47px;
   margin: 0 0 0 8px;
-  background: url("../src/svg/chat.svg") 25px 17px no-repeat #ffffff;
+  background: url("../source/svg/chat.svg") 25px 17px no-repeat #ffffff;
 }
 
 .nav-call a {
   padding: 15px 29px 15px 52px;
   margin: 0 8px 0 8px;
-  background: url("../src/svg/call.svg") 26px 15px no-repeat #ffffff;
+  background: url("../source/svg/call.svg") 26px 15px no-repeat #ffffff;
 }
 
 .nav-mail a {
   padding: 15px 49px 15px 69px;
   margin: 0 8px 0 0;
-  background: url("../src/svg/mail.svg") 47px 18px no-repeat #ffffff;
+  background: url("../source/svg/mail.svg") 47px 18px no-repeat #ffffff;
 }
 
 .nav-feedback a {
   padding: 15px 15px 15px 40px;
   margin: 0 8px 54px 0;
-  background: url("../src/svg/feedback.svg") 15px 15px no-repeat #ffffff;
+  background: url("../source/svg/feedback.svg") 15px 15px no-repeat #ffffff;
 }
 
 .chat-img {
   margin-right: 40px;
-  background-image: url("../src/svg/chat.svg");
+  background-image: url("../source/svg/chat.svg");
   background-repeat: no-repeat;
   background-position: 25px 17px;
 }
@@ -283,22 +283,22 @@ h1 {
 }
 
 .reference-list li:nth-child(1) {
-  background: url("../src/svg/right_arrow_reference.svg") 957px 20px no-repeat
+  background: url("../source/svg/right_arrow_reference.svg") 957px 20px no-repeat
     #ffffff;
 }
 
 .reference-list li:nth-child(2) {
-  background: url("../src/svg/right_arrow_reference.svg") 957px 40px no-repeat
+  background: url("../source/svg/right_arrow_reference.svg") 957px 40px no-repeat
     #ffffff;
 }
 
 .reference-list li:nth-child(3) {
-  background: url("../src/svg/right_arrow_reference.svg") 957px 20px no-repeat
+  background: url("../source/svg/right_arrow_reference.svg") 957px 20px no-repeat
     #ffffff;
 }
 
 .reference-list li:nth-child(4) {
-  background: url("../src/svg/right_arrow_reference.svg") 957px 40px no-repeat
+  background: url("../source/svg/right_arrow_reference.svg") 957px 40px no-repeat
     #ffffff;
 }
 
@@ -328,7 +328,7 @@ h1 {
   text-align: left;
   padding: 0;
   margin-bottom: 0;
-  background: url("../src/svg/share.svg") no-repeat 319px 6px;
+  background: url("../source/svg/share.svg") no-repeat 319px 6px;
 }
 
 .article-content {
@@ -360,7 +360,7 @@ h1 {
 .contacts-button {
   display: block;
   padding: 15px 57px 15px 80px;
-  background: url("../src/svg/article-chat.svg") 56px 16px no-repeat #36ba5f;
+  background: url("../source/svg/article-chat.svg") 56px 16px no-repeat #36ba5f;
   border-radius: 12px;
   color: #ffffff;
   cursor: pointer;
@@ -377,4 +377,3 @@ h1 {
 .article-content p {
   margin: 0;
 }
-/* тест */
