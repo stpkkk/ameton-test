@@ -35,7 +35,7 @@ header .wrapper {
   margin: 0 auto;
   max-width: 1200px;
   background: url(../source/svg/first_plane.svg) 0px 195px no-repeat,"
-    url(/source/svg/apple.svg) 1029px 151.8px no-repeat,
+    url(../source/svg/apple.svg) 1029px 151.8px no-repeat,
     url(../source/svg/flower.svg) 1038.33px 146.13px no-repeat,
     url(../source/svg/camera.svg) 1066.96px 135.29px no-repeat,
     url(../source/svg/second_plane.svg) 43px 71px no-repeat,
